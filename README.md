@@ -10,12 +10,12 @@ I'm a student, and photography is something I do on the side — not a career pl
 
 | File | Description |
 |---|---|
-| `portfolio.html` | The full interactive portfolio — open it in any browser. Images are embedded directly in the file, so it works standalone with no internet connection and no separate image folder needed. |
+| `[portfolio.html](https://ariqphotoportfolio.vercel.app/)` | The full interactive portfolio — open it in any browser. Images are embedded directly in the file, so it works standalone with no internet connection and no separate image folder needed. |
 | `portfolio.pdf` | A static, printable version of the same portfolio for sharing or archiving. |
 
 ## Viewing the portfolio
 
-**Website version:** Double-click `portfolio.html`, or drag it into any browser tab. Click any photo to view it enlarged; press `Esc` or click outside the image to close.
+**Website version:** Double-click `[portfolio.html](https://ariqphotoportfolio.vercel.app/)`, or drag it into any browser tab. Click any photo to view it enlarged; press `Esc` or click outside the image to close.
 
 **PDF version:** Open `portfolio.pdf` in any PDF reader.
 
